@@ -1,0 +1,26 @@
+{
+  "name": "gulp_lesson",
+  "version": "1.0.0",
+  "description": "gulp lesson ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NastyaKarelskaya",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-js-minify": "0.0.3",
+    "gulp-minify": "^3.1.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-util": "^3.0.8",
+    "vinyl-ftp": "^0.6.1"
+  },
+  "dependencies": {
+    "npm": "^6.0.1"
+  }
+}
